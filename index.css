@@ -79,8 +79,9 @@
     font-family: "Lato", sans-serif;
     padding-top: 30px;
     padding-bottom: 33px;
-    margin-left: 750px;
+    margin-left: 720px;
     padding-right: 30px;
+    padding-left: 35px;
     position: relative;
 }
 .nav-english:hover{
