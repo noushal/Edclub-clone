@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    background-color: #F5F3F0;
+    background-color: #F9F3F0;
 }
 .flex-row{
     display: flex;
@@ -24,7 +24,7 @@
     height: 40px;
 }
 .nav-library-div{
-    padding-left: 310px;
+    padding-left: 311px;
     padding-top: 30px;
 }
 .nav-library{
